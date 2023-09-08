@@ -33,7 +33,8 @@ body{
 }
 #box{      
   flex-direction: column;
-  width: 450px;  
+  max-width: 588px; 
+  width: 100%; 
   color: var(--text-color);
   text-align: center;  
   margin: 56px auto 0; 
